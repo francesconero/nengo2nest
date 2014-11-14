@@ -4,13 +4,15 @@ Tool to simulate with Nest a network exported from Nengo
 
 Requirements
 ==========
-This tool requires Nest to be already installed in the system. Install it from http://www.nest-initiative.org/Software:Download
+This tool requires Nest to be already installed in the system.
+
+Install it from http://www.nest-initiative.org/Software:Download
 
 Installation
 ==========
 You can install the package directly from github by running pip:
 
-    pip install -e https://github.com/francesconero/nengo2nest/zipball/master
+    pip install https://github.com/francesconero/nengo2nest/zipball/master
 
 Usage
 ==========
