@@ -33,5 +33,5 @@ You will get 5 files after a successful simulation:
 - **\*.dat** contains the voltage traces of the neurons
 - **\*.set** contains info about the simulation settings (only resolution and simulation time for now)
 
-Mind the fact that the *.gdf and *.dat file reference the nodes by ID, and not by their original Nengo name, so you
+Mind the fact that the *.gdf and *.dat files reference the nodes by ID, and not by their original Nengo name, so you
 need to lookup these IDs in the *.nod file to get the original names.
